@@ -885,6 +885,11 @@ namespace Menu {
 				"followed in the list. Pressing enter",
 				"again will close the detailed view",
 				"and stop following the process."},
+			{"show_user",
+				"Show username column",
+				"",
+				"Setting this option to false may be help-",
+				"ful if you prefer to keep usernames hidden"}
 		}
 	};
 
